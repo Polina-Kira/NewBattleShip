@@ -12,9 +12,84 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2018-10-27T12:36:01.402+03:00
+  lastUpdatedAtString: 2018-10-27T12:36:58.206+03:00
   initializedAtString: 2018-10-27T12:36:01.402+03:00
   log:
+  - commitID: 1b4c68cbcda09e2780885712f65701f1b0ec80ee
+    mergeA: 
+    mergeB: 
+    authorName: Polina-Kira
+    authorEmail: polina.hohlatsova@ttu.ee
+    commitEmail: polina.hohlatsova@ttu.ee
+    commitName: Polina-Kira
+    summary: again
+    description: 'again
+
+
+      upload project'
+    timeString: 2018-10-27T12:36:39.000+03:00
+    commitTimeString: 2018-10-27T12:36:39.000+03:00
+    changes:
+    - path: Library/Collab/CollabSnapshot_b21d4be3-eb5a-4321-b7b3-b017e2257199.txt
+      fullPath: /Users/kira/Downloads/NewBattleShip/Library/Collab/CollabSnapshot_b21d4be3-eb5a-4321-b7b3-b017e2257199.txt
+      projectPath: Library/Collab/CollabSnapshot_b21d4be3-eb5a-4321-b7b3-b017e2257199.txt
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/CurrentLayout.dwlt
+      fullPath: /Users/kira/Downloads/NewBattleShip/Library/CurrentLayout.dwlt
+      projectPath: Library/CurrentLayout.dwlt
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/EditorInstance.json
+      fullPath: /Users/kira/Downloads/NewBattleShip/Library/EditorInstance.json
+      projectPath: Library/EditorInstance.json
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/gfu/cache/branches.yaml
+      fullPath: /Users/kira/Downloads/NewBattleShip/Library/gfu/cache/branches.yaml
+      projectPath: Library/gfu/cache/branches.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/gfu/cache/gitlocks.yaml
+      fullPath: /Users/kira/Downloads/NewBattleShip/Library/gfu/cache/gitlocks.yaml
+      projectPath: Library/gfu/cache/gitlocks.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/gfu/cache/gitlog.yaml
+      fullPath: /Users/kira/Downloads/NewBattleShip/Library/gfu/cache/gitlog.yaml
+      projectPath: Library/gfu/cache/gitlog.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/gfu/cache/gitstatusentries.yaml
+      fullPath: /Users/kira/Downloads/NewBattleShip/Library/gfu/cache/gitstatusentries.yaml
+      projectPath: Library/gfu/cache/gitstatusentries.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/gfu/cache/gittrackingstatus.yaml
+      fullPath: /Users/kira/Downloads/NewBattleShip/Library/gfu/cache/gittrackingstatus.yaml
+      projectPath: Library/gfu/cache/gittrackingstatus.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/gfu/cache/gituser.yaml
+      fullPath: /Users/kira/Downloads/NewBattleShip/Library/gfu/cache/gituser.yaml
+      projectPath: Library/gfu/cache/gituser.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/gfu/cache/repoinfo.yaml
+      fullPath: /Users/kira/Downloads/NewBattleShip/Library/gfu/cache/repoinfo.yaml
+      projectPath: Library/gfu/cache/repoinfo.yaml
+      originalPath: 
+      status: 3
+      staged: 0
   - commitID: 94d3ddd9e71a8d3db0034bf460d544018ad7ceb9
     mergeA: 
     mergeB: 

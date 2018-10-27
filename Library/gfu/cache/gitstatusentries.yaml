@@ -12,24 +12,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-  lastUpdatedAtString: 2018-10-27T12:36:29.402+03:00
+  lastUpdatedAtString: 2018-10-27T15:57:14.298+03:00
   initializedAtString: 2018-10-27T12:34:26.435+03:00
   entries:
-  - path: Library/Collab/CollabSnapshot_b21d4be3-eb5a-4321-b7b3-b017e2257199.txt
-    fullPath: /Users/kira/Downloads/NewBattleShip/Library/Collab/CollabSnapshot_b21d4be3-eb5a-4321-b7b3-b017e2257199.txt
-    projectPath: Library/Collab/CollabSnapshot_b21d4be3-eb5a-4321-b7b3-b017e2257199.txt
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library/CurrentLayout.dwlt
-    fullPath: /Users/kira/Downloads/NewBattleShip/Library/CurrentLayout.dwlt
-    projectPath: Library/CurrentLayout.dwlt
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library/EditorInstance.json
-    fullPath: /Users/kira/Downloads/NewBattleShip/Library/EditorInstance.json
-    projectPath: Library/EditorInstance.json
+  - path: Library/assetDatabase3
+    fullPath: /Users/kira/Downloads/NewBattleShip/Library/assetDatabase3
+    projectPath: Library/assetDatabase3
     originalPath: 
     status: 3
     staged: 0
@@ -63,15 +51,21 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: Library/gfu/cache/gituser.yaml
-    fullPath: /Users/kira/Downloads/NewBattleShip/Library/gfu/cache/gituser.yaml
-    projectPath: Library/gfu/cache/gituser.yaml
-    originalPath: 
-    status: 3
-    staged: 0
   - path: Library/gfu/cache/repoinfo.yaml
     fullPath: /Users/kira/Downloads/NewBattleShip/Library/gfu/cache/repoinfo.yaml
     projectPath: Library/gfu/cache/repoinfo.yaml
     originalPath: 
     status: 3
+    staged: 0
+  - path: Library/shadercompiler-UnityShaderCompiler0.log
+    fullPath: /Users/kira/Downloads/NewBattleShip/Library/shadercompiler-UnityShaderCompiler0.log
+    projectPath: Library/shadercompiler-UnityShaderCompiler0.log
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Temp/__Backupscenes/0.backup
+    fullPath: /Users/kira/Downloads/NewBattleShip/Temp/__Backupscenes/0.backup
+    projectPath: Temp/__Backupscenes/0.backup
+    originalPath: 
+    status: 1
     staged: 0
