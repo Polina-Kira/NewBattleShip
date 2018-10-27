@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2018-10-27T11:19:14.969+03:00
-  initializedAtString: 2018-10-27T03:17:38.890+03:00
+  lastUpdatedAtString: 2018-10-27T12:36:00.929+03:00
+  initializedAtString: 2018-10-27T12:34:25.996+03:00
   currentGitRemote:
     name: origin
     url: https://github.com/Polina-Kira/anew.git

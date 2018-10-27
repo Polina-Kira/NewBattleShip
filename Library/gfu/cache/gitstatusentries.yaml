@@ -12,6 +12,66 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-  lastUpdatedAtString: 2018-10-27T11:19:16.188+03:00
-  initializedAtString: 2018-10-27T03:17:39.185+03:00
-  entries: []
+  lastUpdatedAtString: 2018-10-27T12:36:29.402+03:00
+  initializedAtString: 2018-10-27T12:34:26.435+03:00
+  entries:
+  - path: Library/Collab/CollabSnapshot_b21d4be3-eb5a-4321-b7b3-b017e2257199.txt
+    fullPath: /Users/kira/Downloads/NewBattleShip/Library/Collab/CollabSnapshot_b21d4be3-eb5a-4321-b7b3-b017e2257199.txt
+    projectPath: Library/Collab/CollabSnapshot_b21d4be3-eb5a-4321-b7b3-b017e2257199.txt
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/CurrentLayout.dwlt
+    fullPath: /Users/kira/Downloads/NewBattleShip/Library/CurrentLayout.dwlt
+    projectPath: Library/CurrentLayout.dwlt
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/EditorInstance.json
+    fullPath: /Users/kira/Downloads/NewBattleShip/Library/EditorInstance.json
+    projectPath: Library/EditorInstance.json
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/gfu/cache/branches.yaml
+    fullPath: /Users/kira/Downloads/NewBattleShip/Library/gfu/cache/branches.yaml
+    projectPath: Library/gfu/cache/branches.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/gfu/cache/gitlocks.yaml
+    fullPath: /Users/kira/Downloads/NewBattleShip/Library/gfu/cache/gitlocks.yaml
+    projectPath: Library/gfu/cache/gitlocks.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/gfu/cache/gitlog.yaml
+    fullPath: /Users/kira/Downloads/NewBattleShip/Library/gfu/cache/gitlog.yaml
+    projectPath: Library/gfu/cache/gitlog.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/gfu/cache/gitstatusentries.yaml
+    fullPath: /Users/kira/Downloads/NewBattleShip/Library/gfu/cache/gitstatusentries.yaml
+    projectPath: Library/gfu/cache/gitstatusentries.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/gfu/cache/gittrackingstatus.yaml
+    fullPath: /Users/kira/Downloads/NewBattleShip/Library/gfu/cache/gittrackingstatus.yaml
+    projectPath: Library/gfu/cache/gittrackingstatus.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/gfu/cache/gituser.yaml
+    fullPath: /Users/kira/Downloads/NewBattleShip/Library/gfu/cache/gituser.yaml
+    projectPath: Library/gfu/cache/gituser.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/gfu/cache/repoinfo.yaml
+    fullPath: /Users/kira/Downloads/NewBattleShip/Library/gfu/cache/repoinfo.yaml
+    projectPath: Library/gfu/cache/repoinfo.yaml
+    originalPath: 
+    status: 3
+    staged: 0

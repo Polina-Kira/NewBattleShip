@@ -183,7 +183,7 @@ MonoBehaviour:
   m_MinSize: {x: 436, y: 492}
   m_MaxSize: {x: 14006, y: 14042}
   vertical: 0
-  controlID: 36
+  controlID: 55
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -235,7 +235,7 @@ MonoBehaviour:
   - {fileID: 16}
   - {fileID: 17}
   m_Selected: 0
-  m_LastSelected: 1
+  m_LastSelected: 2
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -287,7 +287,7 @@ MonoBehaviour:
     width: 420
     height: 710
   m_PersistentViewDataDictionary: {fileID: 0}
-  progressMessageClearTime: 535.8534109592438
+  progressMessageClearTime: 33213.22609996796
   notificationClearTime: -1
   timeSinceLastRotation: -1
   currentBranchAndRemoteHasUpdate: 0
@@ -295,8 +295,8 @@ MonoBehaviour:
   currentStatusEntriesHasUpdate: 0
   repositoryProgressHasUpdate: 0
   appManagerProgressHasUpdate: 0
-  changeTab: 3
-  activeTab: 3
+  changeTab: 5
+  activeTab: 5
   initProjectView:
     hasCompletedInitialCheck: 1
     isUserDataPresent: 1
@@ -427,10 +427,10 @@ MonoBehaviour:
         treeIsCheckable: 0
         checkState: 0
       selectedNode:
-        path: Remote branches
-        label: Remote branches
-        level: 0
-        isFolder: 1
+        path: origin/master
+        label: master
+        level: 2
+        isFolder: 0
         isContainer: 0
         isCollapsed: 0
         isHidden: 0
@@ -443,17 +443,17 @@ MonoBehaviour:
     disableDelete: 1
     disableCreate: 1
     lastLocalAndRemoteBranchListChangedEvent:
-      updatedTimeString: 2018-10-27T02:43:24.656+03:00
+      updatedTimeString: 2018-10-27T11:07:07.637+03:00
       cacheType: 2
     lastCurrentBranchAndRemoteChange:
-      updatedTimeString: 2018-10-27T02:54:56.097+03:00
+      updatedTimeString: 2018-10-27T11:07:07.636+03:00
       cacheType: 1
     currentBranch:
       name: master
       tracking: origin/master
     currentRemote:
       name: origin
-      url: https://github.com/PolinaKira/BattleShip_Polina-Khokhlacheva.git
+      url: https://github.com/Polina-Kira/anew.git
       login: 
       user: 
       host: 
@@ -469,8 +469,8 @@ MonoBehaviour:
     currentBranchHasUpdate: 0
     currentStatusEntriesHasUpdate: 0
     currentLocksHasUpdate: 0
-    commitBody: nk
-    commitMessage: ghy
+    commitBody: upload project
+    commitMessage: again
     currentBranch: '[master]'
     treeScroll: {x: 0, y: 0}
     treeChanges:
@@ -530,13 +530,13 @@ MonoBehaviour:
     gitStatusEntries: []
     changedFilesText: No changed files
     lastCurrentBranchChangedEvent:
-      updatedTimeString: 2018-10-27T03:09:01.087+03:00
+      updatedTimeString: 2018-10-27T11:19:14.969+03:00
       cacheType: 1
     lastStatusEntriesChangedEvent:
-      updatedTimeString: 2018-10-27T03:17:18.034+03:00
+      updatedTimeString: 2018-10-27T11:19:16.188+03:00
       cacheType: 5
     lastLocksChangedEvent:
-      updatedTimeString: 2018-10-27T03:11:05.843+03:00
+      updatedTimeString: 2018-10-27T11:19:16.037+03:00
       cacheType: 6
   historyView:
     currentLogHasUpdate: 0
@@ -852,10 +852,10 @@ MonoBehaviour:
           status: 0
           staged: 0
     lastLogChangedEvent:
-      updatedTimeString: 2018-10-27T02:57:43.353+03:00
+      updatedTimeString: 2018-10-27T11:07:07.638+03:00
       cacheType: 3
     lastTrackingStatusChangedEvent:
-      updatedTimeString: 2018-10-27T02:58:16.062+03:00
+      updatedTimeString: 2018-10-27T11:09:06.312+03:00
       cacheType: 4
   settingsView:
     gitPathView:
@@ -867,21 +867,21 @@ MonoBehaviour:
       changingManually: 0
     hasRemote: 1
     lastCurrentRemoteChangedEvent:
-      updatedTimeString: 2018-10-27T02:54:56.097+03:00
+      updatedTimeString: 2018-10-27T11:19:14.969+03:00
       cacheType: 1
     metricsEnabled: 1
-    newRepositoryRemoteUrl: https://github.com/PolinaKira/BattleShip_Polina-Khokhlacheva.git
+    newRepositoryRemoteUrl: https://github.com/Polina-Kira/anew.git
     repositoryRemoteName: origin
-    repositoryRemoteUrl: https://github.com/PolinaKira/BattleShip_Polina-Khokhlacheva.git
+    repositoryRemoteUrl: https://github.com/Polina-Kira/anew.git
     scroll: {x: 0, y: 0}
     userSettingsView:
-      gitName: PolinaKira
-      gitEmail: polinka_90@bk.ru
-      newGitName: PolinaKira
-      newGitEmail: polinka_90@bk.ru
+      gitName: Polina-Kira
+      gitEmail: polina.hohlatsova@ttu.ee
+      newGitName: Polina-Kira
+      newGitEmail: polina.hohlatsova@ttu.ee
       needsSaving: 0
       lastCheckUserChangedEvent:
-        updatedTimeString: 2018-10-27T02:53:09.660+03:00
+        updatedTimeString: 2018-10-27T11:20:08.872+03:00
         cacheType: 7
     webTimeout: 3000
     gitTimeout: 5000
@@ -907,19 +907,19 @@ MonoBehaviour:
             email: 
           lockedAtString: 
         gitFileStatus: 0
-        lockedAt: 
+        lockedAt: 1 Jan 0001, 02:00
     lastLocksChangedEvent:
-      updatedTimeString: 2018-10-27T03:09:02.295+03:00
+      updatedTimeString: 2018-10-27T11:07:58.915+03:00
       cacheType: 6
     lastStatusEntriesChangedEvent:
-      updatedTimeString: 2018-10-27T03:09:02.295+03:00
+      updatedTimeString: 2018-10-27T11:07:58.915+03:00
       cacheType: 6
     lastUserChangedEvent:
-      updatedTimeString: 2018-10-27T03:09:20.272+03:00
+      updatedTimeString: 2018-10-27T11:07:58.157+03:00
       cacheType: 7
     lockedFiles: []
     gitStatusEntries: []
-    currentUsername: PolinaKira
+    currentUsername: Polina-Kira
     unlockFileMenuContent:
       m_Text: Release Lock
       m_Image: {fileID: 0}
@@ -931,27 +931,27 @@ MonoBehaviour:
   hasRemote: 1
   currentRemoteName: origin
   currentBranch: master
-  currentRemoteUrl: https://github.com/PolinaKira/BattleShip_Polina-Khokhlacheva.git
-  statusAhead: 0
+  currentRemoteUrl: https://github.com/Polina-Kira/anew.git
+  statusAhead: 1
   statusBehind: 0
-  hasItemsToCommit: 0
+  hasItemsToCommit: 1
   isTrackingRemoteBranch: 1
   currentBranchContent:
     m_Text: master
     m_Image: {fileID: 0}
     m_Tooltip: Active branch
   currentRemoteUrlContent:
-    m_Text: https://github.com/PolinaKira/BattleShip_Polina-Khokhlacheva.git
+    m_Text: https://github.com/Polina-Kira/anew.git
     m_Image: {fileID: 0}
     m_Tooltip: Url of the origin remote
   lastCurrentBranchAndRemoteChangedEvent:
-    updatedTimeString: 2018-10-27T03:09:01.087+03:00
+    updatedTimeString: 2018-10-27T11:19:14.969+03:00
     cacheType: 1
   lastTrackingStatusChangedEvent:
-    updatedTimeString: 2018-10-27T03:09:01.697+03:00
+    updatedTimeString: 2018-10-27T12:30:58.619+03:00
     cacheType: 4
   lastStatusEntriesChangedEvent:
-    updatedTimeString: 2018-10-27T03:17:18.034+03:00
+    updatedTimeString: 2018-10-27T12:30:58.616+03:00
     cacheType: 5
   pullButtonContent:
     m_Text: Pull
@@ -1009,21 +1009,20 @@ MonoBehaviour:
     m_ScenePaths: []
     m_ShowAllHits: 0
     m_SearchArea: 1
-    m_Folders:
-    - Assets/Images/Literas
+    m_Folders: []
   m_ViewMode: 1
   m_StartGridSize: 65
   m_LastFolders:
-  - Assets/Images/Literas
+  - Assets
   m_LastFoldersGridSize: 65
   m_LastProjectPath: /Users/kira/Downloads/NewBattleShip
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: e62a0000
-    m_LastClickedID: 10982
-    m_ExpandedIDs: 00000000322a0000b42a0000102c0000642c0000762d000000ca9a3b
+    m_SelectedIDs: 
+    m_LastClickedID: 0
+    m_ExpandedIDs: 00000000980900001a0a0000720b0000c60b0000d80c000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1051,7 +1050,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000322a0000b42a0000102c0000642c0000762d0000
+    m_ExpandedIDs: 00000000980900001a0a0000720b0000c60b0000d80c0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1078,7 +1077,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c62300006226000072090000420a0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -1135,7 +1134,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: c8fbffff00000000
+    m_ExpandedIDs: e4fbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1258,9 +1257,9 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 313
+    x: 522
     y: 94
-    width: 703
+    width: 494
     height: 710
   m_PersistentViewDataDictionary: {fileID: 0}
   m_MaximizeOnPlay: 0
@@ -1273,10 +1272,10 @@ MonoBehaviour:
     m_VRangeLocked: 0
     hZoomLockedByDefault: 0
     vZoomLockedByDefault: 0
-    m_HBaseRangeMin: -351.5
-    m_HBaseRangeMax: 351.5
-    m_VBaseRangeMin: -346.5
-    m_VBaseRangeMax: 346.5
+    m_HBaseRangeMin: -123.5
+    m_HBaseRangeMax: 123.5
+    m_VBaseRangeMin: -173.25
+    m_VBaseRangeMax: 173.25
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
@@ -1285,7 +1284,7 @@ MonoBehaviour:
     m_HSlider: 0
     m_VSlider: 0
     m_IgnoreScrollWheelUntilClicked: 0
-    m_EnableMouseInput: 0
+    m_EnableMouseInput: 1
     m_EnableSliderZoomHorizontal: 0
     m_EnableSliderZoomVertical: 0
     m_UniformScale: 1
@@ -1294,25 +1293,25 @@ MonoBehaviour:
       serializedVersion: 2
       x: 0
       y: 17
-      width: 703
+      width: 494
       height: 693
-    m_Scale: {x: 1, y: 1}
-    m_Translation: {x: 351.5, y: 346.5}
+    m_Scale: {x: 2, y: 2}
+    m_Translation: {x: 247, y: 346.5}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -351.5
-      y: -346.5
-      width: 703
-      height: 693
+      x: -123.5
+      y: -173.25
+      width: 247
+      height: 346.5
     m_MinimalGUI: 1
-  m_defaultScale: 1
+  m_defaultScale: 2
   m_TargetTexture: {fileID: 0}
   m_CurrentColorSpace: 0
-  m_LastWindowPixelSize: {x: 703, y: 710}
+  m_LastWindowPixelSize: {x: 988, y: 1420}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000100000100
@@ -1337,10 +1336,10 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 305
-    y: 92
-    width: 918
-    height: 421
+    x: 522
+    y: 94
+    width: 494
+    height: 710
   m_PersistentViewDataDictionary: {fileID: 0}
 --- !u!114 &18
 MonoBehaviour:
@@ -1387,7 +1386,7 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 1018
+    x: 1020
     y: 94
     width: 420
     height: 710
@@ -1420,7 +1419,7 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 1018
+    x: 1020
     y: 94
     width: 420
     height: 710
