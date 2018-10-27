@@ -1,0 +1,98 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1dd4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2018-10-27T11:19:14.973+03:00
+  initializedAtString: 2018-10-27T03:18:10.525+03:00
+  log:
+  - commitID: e16656d7d8794e3c6fcddb8ecae5d0ad357f7856
+    mergeA: 
+    mergeB: 
+    authorName: Polina-Kira
+    authorEmail: polina.hohlatsova@ttu.ee
+    commitEmail: polina.hohlatsova@ttu.ee
+    commitName: Polina-Kira
+    summary: first commit
+    description: first commit
+    timeString: 2018-10-27T11:17:58.000+03:00
+    commitTimeString: 2018-10-27T11:17:58.000+03:00
+    changes:
+    - path: README.md
+      fullPath: /Users/kira/Downloads/NewBattleShip/README.md
+      projectPath: README.md
+      originalPath: 
+      status: 4
+      staged: 0
+  - commitID: 82c17fdcdbe5024b608e752ebf03ae99346356ba
+    mergeA: 
+    mergeB: 
+    authorName: Polina Khokhlacheva
+    authorEmail: polinka_90@bk.ru
+    commitEmail: polinka_90@bk.ru
+    commitName: Polina Khokhlacheva
+    summary: Revert "Initial commit"
+    description: 'Revert "Initial commit"
+
+
+      This reverts commit 60943f2507ed02f453bcfb53c0bf3e04d5173dcf.'
+    timeString: 2018-10-27T02:40:44.000+03:00
+    commitTimeString: 2018-10-27T02:40:44.000+03:00
+    changes:
+    - path: .gitattributes
+      fullPath: /Users/kira/Downloads/NewBattleShip/.gitattributes
+      projectPath: .gitattributes
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: .gitignore
+      fullPath: /Users/kira/Downloads/NewBattleShip/.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Assets/.gitignore
+      fullPath: /Users/kira/Downloads/NewBattleShip/Assets/.gitignore
+      projectPath: Assets/.gitignore
+      originalPath: 
+      status: 5
+      staged: 0
+  - commitID: 60943f2507ed02f453bcfb53c0bf3e04d5173dcf
+    mergeA: 
+    mergeB: 
+    authorName: Polina Khokhlacheva
+    authorEmail: Polina.Hohlatsova@ttu.ee
+    commitEmail: Polina.Hohlatsova@ttu.ee
+    commitName: Polina Khokhlacheva
+    summary: Initial commit
+    description: Initial commit
+    timeString: 2018-10-27T02:07:29.000+03:00
+    commitTimeString: 2018-10-27T02:07:29.000+03:00
+    changes:
+    - path: .gitattributes
+      fullPath: /Users/kira/Downloads/NewBattleShip/.gitattributes
+      projectPath: .gitattributes
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: .gitignore
+      fullPath: /Users/kira/Downloads/NewBattleShip/.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/.gitignore
+      fullPath: /Users/kira/Downloads/NewBattleShip/Assets/.gitignore
+      projectPath: Assets/.gitignore
+      originalPath: 
+      status: 4
+      staged: 0

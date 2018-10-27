@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{61EC86A6-6676-573C-1D43-10715C60700F}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/Chanks.cs">
+    <Files>
+      <File FileName="Assets/Script/Chanks.cs" Line="24" Column="10" />
+      <File FileName="Assets/Script/GamePole.cs" Line="304" Column="56" />
+      <File FileName="Assets/Script/ClickPole.cs" Line="27" Column="73" />
+      <File FileName="Assets/Script/Hels.cs" Line="42" Column="70" />
+      <File FileName="Assets/Script/MainGame.cs" Line="170" Column="36" />
+      <File FileName="Assets/Script/TestScript.cs" Line="16" Column="105" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
